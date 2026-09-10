@@ -1,0 +1,6 @@
+{
+    "item.audiolang.test": "Test Audio",
+    "item.audiolang.test.desc": "Test audio file for AudioLang mod",
+    "key.audiolang.play_sound": "Play Translation Sound",
+    "key.categories.audiolang": "Audio Lang"
+}

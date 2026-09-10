@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: More Music Discs
+Specification-Vendor: Mars
+Specification-Version: 35
+Implementation-Title: forge
+Implementation-Version: 35
+Implementation-Vendor: Mars
+Built-On-Minecraft: 1.21.4
+

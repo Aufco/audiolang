@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[54,)"
+license = "MIT"
+
+[[mods]]
+modId = "audiolang"
+version = "35"
+displayName = "Audio Lang"
+displayURL = "https://github.com/benau/audiolang"
+logoFile = "audiolang.png"
+authors = "Aufco"
+description = '''Adds audio for all Minecraft translation keys in multiple languages'''
+
+[[dependencies.audiolang]]
+modId = "forge"
+mandatory = true
+versionRange = "[54,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.audiolang]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.21.4,1.22)"
+ordering = "NONE"
+side = "BOTH"
